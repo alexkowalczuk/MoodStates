@@ -1,11 +1,11 @@
-## Simple Shapes for P5.js
+## MoodStates for P5.js
 #### by Alex Kowalczuk
-Feb 2nd, 2021
+Feb 16nd, 2021
 
 
 ### Overview
-10 different shapes in p5.js
+5 different moods "animations". press 1 to 5 to change mood.
 
 ### Technical Details
 
-Modify the sketch.js setup() and draw(). Also added functions and tried to do some animations.
+Modify the sketch.js added different text, also added images in Asset file.
